@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cire/Documents/programming/nowonyap/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_assist_activated.png",
+        "source": "/Users/cire/Documents/programming/nowonyap/app/src/main/res/drawable-hdpi/ic_action_assist_activated.png"
+    },
+    {
+        "merged": "/Users/cire/Documents/programming/nowonyap/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_assist_normal.png",
+        "source": "/Users/cire/Documents/programming/nowonyap/app/src/main/res/drawable-hdpi/ic_action_assist_normal.png"
+    }
+]
