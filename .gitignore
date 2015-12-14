@@ -1,0 +1,39 @@
+# mac files
+*.DS_Store
+
+# built application files
+*.apk
+*.ap_
+addTag.sh
+
+# files for the dex VM
+*.dex
+
+# yala files
+yala.xml
+
+# Java class files
+*.class
+
+# generated files
+build/
+bin/
+gen/
+docs/
+lint.xml
+
+.gradle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+target.properties
+
+# Eclipse project files
+.metadata/
+
+#repo files
+.repo/
+
+# Android Studio project files
+.idea/
+*.iml
